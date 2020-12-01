@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Scanner</string>
+    <string name="todo">Todo</string>
+    <string name="no_barcode_detected">No bar code detected</string>
+    <string name="read_barcode">Read Barcode</string>
+    <string name="enter_text_here">Enter Text Here</string>
+    <string name="click_here_to_generate_qr_code">Click Here TO generate qr code</string>
+    <string name="todo1">TODO</string>
+    <string name="scan_your_qr_code">Scan Your QR Code</string>
+    <string name="scanner">Scanner</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Code Generator</string>
+    <string name="title_notifications">Code Scanner</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hellooo1">hellooo</string>
+    <string name="hello">hello</string>
+    <string name="code_reader">code reader</string>
+    <string name="process">Process</string>
+    <string name="s">s</string>
+    <string name="scan_barcode">Sacan Barcode</string>
+</resources>

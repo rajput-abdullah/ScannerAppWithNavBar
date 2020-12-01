@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/navigation_generator"
+        android:icon="@drawable/ic_baseline_qr_code_generator"
+        android:title="@string/title_dashboard" />
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_scanner"
+        android:icon="@drawable/ic_baseline_qr_code_scanner"
+        android:title="@string/title_notifications" />
+
+</menu>
